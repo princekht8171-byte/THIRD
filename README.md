@@ -1,0 +1,1 @@
+This website was created during my HTML and CSS learning journey by following video playlists from the CodeHelp YouTube channel. It was one of my first hands-on projects, helping me strengthen my front-end development skills and understand responsive web design concepts
